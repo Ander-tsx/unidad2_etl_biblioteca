@@ -1,0 +1,17 @@
+============================================================
+   REPORTE DE EJECUCIÓN — ETL BIBLIOTECA
+============================================================
+Nombre del alumno    : Gaspar Andres Garcia Quiroz
+Grupo                : 9A
+Fecha y hora         : 2026-07-05 17:48:10
+Archivo procesado    : data/prestamos_biblioteca_100.csv
+------------------------------------------------------------
+Filas leídas         : 100
+Filas cargadas       : 98
+Filas rechazadas     : 2
+Estado final         : FINALIZADO_CON_ERRORES
+------------------------------------------------------------
+Errores detectados:
+  • Fila CSV 101 | id_prestamo=5002 | id_prestamo duplicado; se conserva la primera aparición
+  • Fila CSV 100 | id_prestamo=5099 | total_multa incorrecto: valor=40, esperado=70 (7×10)
+============================================================

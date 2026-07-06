@@ -1,0 +1,101 @@
+id_prestamo,fecha_prestamo,alumno,carrera,libro,categoria,dias_prestamo,multa_diaria,sede,total_multa
+5001,2026-06-01,Ana Lopez,IDGS,Python Basico,Programacion,3,0,Biblioteca Central,0
+5002,2026-06-02,Luis Perez,IRD,Bases de Datos I,Bases de datos,5,5,Sala Norte,25
+5003,2026-06-03,Sofia Ruiz,IGE,Mineria de Datos,Analitica,7,10,Sala Sur,70
+5004,2026-06-04,Pedro Mata,ITI,Redes de Computadoras,Redes,2,15,Laboratorio Digital,30
+5005,2026-06-05,Laura Diaz,DNAM,Ingenieria de Software,Software,4,0,Biblioteca Central,0
+5006,2026-06-06,Carlos Luna,IDGS,Estadistica Aplicada,Matematicas,6,5,Sala Norte,30
+5007,2026-06-07,Maria Solis,IRD,Linux para Todos,Sistemas,8,10,Sala Sur,80
+5008,2026-06-08,Jorge Cano,IGE,SQL Practico,Bases de datos,1,15,Laboratorio Digital,15
+5009,2026-06-09,Daniel Torres,ITI,Analisis de Datos,Analitica,9,0,Biblioteca Central,0
+5010,2026-06-10,Paola Reyes,DNAM,Fundamentos de IA,Inteligencia artificial,10,5,Sala Norte,50
+5011,2026-06-11,Roberto Silva,IDGS,Python Basico,Programacion,3,10,Sala Sur,30
+5012,2026-06-12,Alejandra Mora,IRD,Bases de Datos I,Bases de datos,5,15,Laboratorio Digital,75
+5013,2026-06-13,Fernanda Rios,IGE,Mineria de Datos,Analitica,7,0,Biblioteca Central,0
+5014,2026-06-14,Miguel Angel,ITI,Redes de Computadoras,Redes,2,5,Sala Norte,10
+5015,2026-06-15,Diana Castillo,DNAM,Ingenieria de Software,Software,4,10,Sala Sur,40
+5016,2026-06-16,Raul Ortega,IDGS,Estadistica Aplicada,Matematicas,6,15,Laboratorio Digital,90
+5017,2026-06-17,Valeria Cruz,IRD,Linux para Todos,Sistemas,8,0,Biblioteca Central,0
+5018,2026-06-18,Hector Medina,IGE,SQL Practico,Bases de datos,1,5,Sala Norte,5
+5019,2026-06-19,Natalia Flores,ITI,Analisis de Datos,Analitica,9,10,Sala Sur,90
+5020,2026-06-20,Oscar Herrera,DNAM,Fundamentos de IA,Inteligencia artificial,10,15,Laboratorio Digital,150
+5021,2026-06-21,Ana Lopez,IDGS,Python Basico,Programacion,3,0,Biblioteca Central,0
+5022,2026-06-22,Luis Perez,IRD,Bases de Datos I,Bases de datos,5,5,Sala Norte,25
+5023,2026-06-23,Sofia Ruiz,IGE,Mineria de Datos,Analitica,7,10,Sala Sur,70
+5024,2026-06-24,Pedro Mata,ITI,Redes de Computadoras,Redes,2,15,Laboratorio Digital,30
+5025,2026-06-25,Laura Diaz,DNAM,Ingenieria de Software,Software,4,0,Biblioteca Central,0
+5026,2026-06-26,Carlos Luna,IDGS,Estadistica Aplicada,Matematicas,6,5,Sala Norte,30
+5027,2026-06-27,Maria Solis,IRD,Linux para Todos,Sistemas,8,10,Sala Sur,80
+5028,2026-06-28,Jorge Cano,IGE,SQL Practico,Bases de datos,1,15,Laboratorio Digital,15
+5029,2026-06-01,Daniel Torres,ITI,Analisis de Datos,Analitica,9,0,Biblioteca Central,0
+5030,2026-06-02,Paola Reyes,DNAM,Fundamentos de IA,Inteligencia artificial,10,5,Sala Norte,50
+5031,2026-06-03,Roberto Silva,IDGS,Python Basico,Programacion,3,10,Sala Sur,30
+5032,2026-06-04,Alejandra Mora,IRD,Bases de Datos I,Bases de datos,5,15,Laboratorio Digital,75
+5033,2026-06-05,Fernanda Rios,IGE,Mineria de Datos,Analitica,7,0,Biblioteca Central,0
+5034,2026-06-06,Miguel Angel,ITI,Redes de Computadoras,Redes,2,5,Sala Norte,10
+5035,2026-06-07,Diana Castillo,DNAM,Ingenieria de Software,Software,4,10,Sala Sur,40
+5036,2026-06-08,Raul Ortega,IDGS,Estadistica Aplicada,Matematicas,6,15,Laboratorio Digital,90
+5037,2026-06-09,Valeria Cruz,IRD,Linux para Todos,Sistemas,8,0,Biblioteca Central,0
+5038,2026-06-10,Hector Medina,IGE,SQL Practico,Bases de datos,1,5,Sala Norte,5
+5039,2026-06-11,Natalia Flores,ITI,Analisis de Datos,Analitica,9,10,Sala Sur,90
+5040,2026-06-12,Oscar Herrera,DNAM,Fundamentos de IA,Inteligencia artificial,10,15,Laboratorio Digital,150
+5041,2026-06-13,Ana Lopez,IDGS,Python Basico,Programacion,3,0,Biblioteca Central,0
+5042,2026-06-14,Luis Perez,IRD,Bases de Datos I,Bases de datos,5,5,Sala Norte,25
+5043,2026-06-15,Sofia Ruiz,IGE,Mineria de Datos,Analitica,7,10,Sala Sur,70
+5044,2026-06-16,Pedro Mata,ITI,Redes de Computadoras,Redes,2,15,Laboratorio Digital,30
+5045,2026-06-17,Laura Diaz,DNAM,Ingenieria de Software,Software,4,0,Biblioteca Central,0
+5046,2026-06-18,Carlos Luna,IDGS,Estadistica Aplicada,Matematicas,6,5,Sala Norte,30
+5047,2026-06-19,Maria Solis,IRD,Linux para Todos,Sistemas,8,10,Sala Sur,80
+5048,2026-06-20,Jorge Cano,IGE,SQL Practico,Bases de datos,1,15,Laboratorio Digital,15
+5049,2026-06-21,Daniel Torres,ITI,Analisis de Datos,Analitica,9,0,Biblioteca Central,0
+5050,2026-06-22,Paola Reyes,DNAM,Fundamentos de IA,Inteligencia artificial,10,5,Sala Norte,50
+5051,2026-06-23,Roberto Silva,IDGS,Python Basico,Programacion,3,10,Sala Sur,30
+5052,2026-06-24,Alejandra Mora,IRD,Bases de Datos I,Bases de datos,5,15,Laboratorio Digital,75
+5053,2026-06-25,Fernanda Rios,IGE,Mineria de Datos,Analitica,7,0,Biblioteca Central,0
+5054,2026-06-26,Miguel Angel,ITI,Redes de Computadoras,Redes,2,5,Sala Norte,10
+5055,2026-06-27,Diana Castillo,DNAM,Ingenieria de Software,Software,4,10,Sala Sur,40
+5056,2026-06-28,Raul Ortega,IDGS,Estadistica Aplicada,Matematicas,6,15,Laboratorio Digital,90
+5057,2026-06-01,Valeria Cruz,IRD,Linux para Todos,Sistemas,8,0,Biblioteca Central,0
+5058,2026-06-02,Hector Medina,IGE,SQL Practico,Bases de datos,1,5,Sala Norte,5
+5059,2026-06-03,Natalia Flores,ITI,Analisis de Datos,Analitica,9,10,Sala Sur,90
+5060,2026-06-04,Oscar Herrera,DNAM,Fundamentos de IA,Inteligencia artificial,10,15,Laboratorio Digital,150
+5061,2026-06-05,Ana Lopez,IDGS,Python Basico,Programacion,3,0,Biblioteca Central,0
+5062,2026-06-06,Luis Perez,IRD,Bases de Datos I,Bases de datos,5,5,Sala Norte,25
+5063,2026-06-07,Sofia Ruiz,IGE,Mineria de Datos,Analitica,7,10,Sala Sur,70
+5064,2026-06-08,Pedro Mata,ITI,Redes de Computadoras,Redes,2,15,Laboratorio Digital,30
+5065,2026-06-09,Laura Diaz,DNAM,Ingenieria de Software,Software,4,0,Biblioteca Central,0
+5066,2026-06-10,Carlos Luna,IDGS,Estadistica Aplicada,Matematicas,6,5,Sala Norte,30
+5067,2026-06-11,Maria Solis,IRD,Linux para Todos,Sistemas,8,10,Sala Sur,80
+5068,2026-06-12,Jorge Cano,IGE,SQL Practico,Bases de datos,1,15,Laboratorio Digital,15
+5069,2026-06-13,Daniel Torres,ITI,Analisis de Datos,Analitica,9,0,Biblioteca Central,0
+5070,2026-06-14,Paola Reyes,DNAM,Fundamentos de IA,Inteligencia artificial,10,5,Sala Norte,50
+5071,2026-06-15,Roberto Silva,IDGS,Python Basico,Programacion,3,10,Sala Sur,30
+5072,2026-06-16,Alejandra Mora,IRD,Bases de Datos I,Bases de datos,5,15,Laboratorio Digital,75
+5073,2026-06-17,Fernanda Rios,IGE,Mineria de Datos,Analitica,7,0,Biblioteca Central,0
+5074,2026-06-18,Miguel Angel,ITI,Redes de Computadoras,Redes,2,5,Sala Norte,10
+5075,2026-06-19,Diana Castillo,DNAM,Ingenieria de Software,Software,4,10,Sala Sur,40
+5076,2026-06-20,Raul Ortega,IDGS,Estadistica Aplicada,Matematicas,6,15,Laboratorio Digital,90
+5077,2026-06-21,Valeria Cruz,IRD,Linux para Todos,Sistemas,8,0,Biblioteca Central,0
+5078,2026-06-22,Hector Medina,IGE,SQL Practico,Bases de datos,1,5,Sala Norte,5
+5079,2026-06-23,Natalia Flores,ITI,Analisis de Datos,Analitica,9,10,Sala Sur,90
+5080,2026-06-24,Oscar Herrera,DNAM,Fundamentos de IA,Inteligencia artificial,10,15,Laboratorio Digital,150
+5081,2026-06-25,Ana Lopez,IDGS,Python Basico,Programacion,3,0,Biblioteca Central,0
+5082,2026-06-26,Luis Perez,IRD,Bases de Datos I,Bases de datos,5,5,Sala Norte,25
+5083,2026-06-27,Sofia Ruiz,IGE,Mineria de Datos,Analitica,7,10,Sala Sur,70
+5084,2026-06-28,Pedro Mata,ITI,Redes de Computadoras,Redes,2,15,Laboratorio Digital,30
+5085,2026-06-01,Laura Diaz,DNAM,Ingenieria de Software,Software,4,0,Biblioteca Central,0
+5086,2026-06-02,Carlos Luna,IDGS,Estadistica Aplicada,Matematicas,6,5,Sala Norte,30
+5087,2026-06-03,Maria Solis,IRD,Linux para Todos,Sistemas,8,10,Sala Sur,80
+5088,2026-06-04,Jorge Cano,IGE,SQL Practico,Bases de datos,1,15,Laboratorio Digital,15
+5089,2026-06-05,Daniel Torres,ITI,Analisis de Datos,Analitica,9,0,Biblioteca Central,0
+5090,2026-06-06,Paola Reyes,DNAM,Fundamentos de IA,Inteligencia artificial,10,5,Sala Norte,50
+5091,2026-06-07,Roberto Silva,IDGS,Python Basico,Programacion,3,10,Sala Sur,30
+5092,2026-06-08,Alejandra Mora,IRD,Bases de Datos I,Bases de datos,5,15,Laboratorio Digital,75
+5093,2026-06-09,Fernanda Rios,IGE,Mineria de Datos,Analitica,7,0,Biblioteca Central,0
+5094,2026-06-10,Miguel Angel,ITI,Redes de Computadoras,Redes,2,5,Sala Norte,10
+5095,2026-06-11,Diana Castillo,DNAM,Ingenieria de Software,Software,4,10,Sala Sur,40
+5096,2026-06-12,Raul Ortega,IDGS,Estadistica Aplicada,Matematicas,6,15,Laboratorio Digital,90
+5097,2026-06-13,Valeria Cruz,IRD,Linux para Todos,Sistemas,8,0,Biblioteca Central,0
+5098,2026-06-14,Hector Medina,IGE,SQL Practico,Bases de datos,1,5,Sala Norte,5
+5099,2026-06-15,Ivonne Salgado,IDGS,Python Basico,Programacion,7,10,Biblioteca Central,40
+5002,2026-06-16,Marco Vidal,IRD,SQL Practico,Bases de datos,4,5,Sala Norte,20
